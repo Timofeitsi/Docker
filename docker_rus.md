@@ -460,5 +460,4 @@ docker service update --replicas=5 nginx
 ~~~
 
 **P.S.**
-
-Прим. перев.: Напомню, что оригинальная (англоязычная) версия Docker Cheat Sheet доступна и обновляется в Git-репозитории. Автор будет рад исправлениям/пополнениям от сообщества.
+https://github.com/eon01/DockerCheatSheet
