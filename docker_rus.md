@@ -459,6 +459,6 @@ docker service update --limit-cpu 2 nginx
 docker service update --replicas=5 nginx
 ~~~
 
-** P.S.**
+**P.S.**
 
 Прим. перев.: Напомню, что оригинальная (англоязычная) версия Docker Cheat Sheet доступна и обновляется в Git-репозитории. Автор будет рад исправлениям/пополнениям от сообщества.
