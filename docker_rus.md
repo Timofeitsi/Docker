@@ -1,8 +1,11 @@
-Установка
+**Шпаргалка с командами Docker
+
+###  Установка
 
 Linux
-
+~~~
 curl -sSL https://get.docker.com/ | sh
+~~~
 
 Mac
 
