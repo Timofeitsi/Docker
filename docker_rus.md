@@ -10,20 +10,26 @@ curl -sSL https://get.docker.com/ | sh
 Mac
 
 Скачайте dmg по этой ссылке:
+~~~
 https://download.docker.com/mac/stable/Docker.dmg
+~~~
 
 Windows
 
 Используйте MSI-инсталлятор:
+~~~
 https://download.docker.com/win/stable/InstallDocker.msi
+~~~
 
-Реестры и репозитории Docker
+### Реестры и репозитории Docker
 
 Вход в реестр
-
+~~~
 docker login
-
+~~~
+~~~
 docker login localhost:8080
+~~~
 
 Выход из реестра
 
