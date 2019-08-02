@@ -1,5 +1,23 @@
 **Шпаргалка с командами Docker**
 
+![1552317264965](https://user-images.githubusercontent.com/35657933/54134895-d3d7e480-4429-11e9-8b62-c6e719e46498.jpg)
+![1552317537397](https://user-images.githubusercontent.com/35657933/54135085-37621200-442a-11e9-86a9-93a6f7d959f8.jpg)
+![1552317711879](https://user-images.githubusercontent.com/35657933/54135307-9b84d600-442a-11e9-937b-72bb17169bd8.jpg)
+
+![1552318467562](https://user-images.githubusercontent.com/35657933/54136214-68434680-442c-11e9-8dc4-8f5bddc96098.jpg)
+![1552318531067](https://user-images.githubusercontent.com/35657933/54136282-8446e800-442c-11e9-971a-4332698155d9.jpg)
+![1552318577900](https://user-images.githubusercontent.com/35657933/54136318-9c1e6c00-442c-11e9-925d-d1188325f43d.jpg)
+![1552318614839](https://user-images.githubusercontent.com/35657933/54136358-b35d5980-442c-11e9-9f97-291fd4fd8308.jpg)
+![1552318531067](https://user-images.githubusercontent.com/35657933/54136437-d7b93600-442c-11e9-805b-ed480a997530.jpg)
+![1552318723273](https://user-images.githubusercontent.com/35657933/54136472-ef90ba00-442c-11e9-87b0-f5b101309d1f.jpg)
+![1552318755109](https://user-images.githubusercontent.com/35657933/54136513-020af380-442d-11e9-8e0e-966fbdc68673.jpg)
+![1552318800409](https://user-images.githubusercontent.com/35657933/54136580-223ab280-442d-11e9-81e2-3de6c9f189cd.jpg)
+![1552318846916](https://user-images.githubusercontent.com/35657933/54136647-3a123680-442d-11e9-8ec7-9ca462146a97.jpg)
+![1552318882089](https://user-images.githubusercontent.com/35657933/54136690-4d250680-442d-11e9-892d-d99235f50f50.jpg)
+![1552318911851](https://user-images.githubusercontent.com/35657933/54136728-5e6e1300-442d-11e9-82c6-479681a06aa0.jpg)
+![1552319161675](https://user-images.githubusercontent.com/35657933/54137042-f7049300-442d-11e9-8ccb-8e943719be94.jpg)
+![1552319192360](https://user-images.githubusercontent.com/35657933/54137089-0aaff980-442e-11e9-9526-5de8a34f3969.jpg)
+
 ###  Установка
 
 Linux
