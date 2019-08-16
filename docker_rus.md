@@ -477,6 +477,14 @@ docker service update --limit-cpu 2 nginx
 docker service update --replicas=5 nginx
 ~~~
 
+#
+#
+#
+---
+#
+#
+#
+
 Проверить переменные окружения
 ~~~
 docker exec nginx env
