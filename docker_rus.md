@@ -477,5 +477,30 @@ docker service update --limit-cpu 2 nginx
 docker service update --replicas=5 nginx
 ~~~
 
+Проверить переменные окружения
+~~~
+docker exec nginx env
+~~~
+
+Параметры в docker-compose и в Dockerfile
+~~~
+docker cli                       docker-compose.yml          Dockerfile
+-----------------------------------------------------------------------------
+--name sample                    container_name: sample      -
+
+-e BASE=asdf                     environment:                ENV BASE=asdf
+                                   - BASE=asdf
+
+--volume `pwd`/src/:/app/src/    volumes:                    -
+                                   - ./src/:/app/src/
+
+--publish 8080:3000              ports:                      -
+                                   - "8080:3000"
+
+ubuntu:18.04                     image: ubuntu:18.04         FROM ubuntu:18.04
+
+sleep 1000                       command: sleep 1000         CMD sleep 1000
+~~~
+
 **P.S.**
 https://github.com/eon01/DockerCheatSheet
